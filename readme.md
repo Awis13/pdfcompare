@@ -1,8 +1,8 @@
-PDF Text Comparison Tool
+## PDF Text Comparison Tool
 
 This script compares the text content of two PDF files and displays the differences between them. It's a simple and convenient way to check for differences in text without the need for any complicated software.
 
-Features
+## Features
 
 Extracts and compares text from two PDF files
 Displays added lines in green
